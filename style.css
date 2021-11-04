@@ -7,4 +7,5 @@ body{
 }
 article{
     background-color: coral;
+    max-width: 150px;
 }
